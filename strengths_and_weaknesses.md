@@ -8,3 +8,4 @@ Multiple collaborators can work on the same project simultaneously
 
 can overclomplicate workflow for one person 
 
+a long project history takes up file space (also deleted files and old versions)
